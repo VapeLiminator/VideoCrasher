@@ -1,0 +1,11 @@
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\bin\Debug\VideoCrasher.exe.config
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\bin\Debug\VideoCrasher.exe
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\bin\Debug\VideoCrasher.pdb
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.csproj.AssemblyReference.cache
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.csproj.SuggestedBindingRedirects.cache
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.Properties.Resources.resources
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.csproj.GenerateResource.cache
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.csproj.CoreCompileInputs.cache
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.exe
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.pdb
+C:\Users\vapel\source\repos\VideoCrasher\VideoCrasher\obj\Debug\VideoCrasher.Form1.resources
