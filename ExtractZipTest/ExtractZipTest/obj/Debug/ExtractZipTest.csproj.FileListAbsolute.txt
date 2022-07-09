@@ -1,0 +1,11 @@
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\bin\Debug\ExtractZipTest.exe.config
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\bin\Debug\ExtractZipTest.exe
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\bin\Debug\ExtractZipTest.pdb
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.csproj.AssemblyReference.cache
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.Form1.resources
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.Properties.Resources.resources
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.csproj.GenerateResource.cache
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.csproj.CoreCompileInputs.cache
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.exe
+C:\Users\vapel\source\repos\ExtractZipTest\ExtractZipTest\obj\Debug\ExtractZipTest.pdb
