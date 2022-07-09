@@ -26,7 +26,7 @@ namespace VideoCrasher
 
             try
             {
-                if (!webClient.DownloadString("https://raw.githubusercontent.com/VapeLiminator/VideoCrasher/main/version.txt").Contains("4.0.1"))
+                if (!webClient.DownloadString("https://raw.githubusercontent.com/VapeLiminator/VideoCrasher/main/version.txt").Contains("4.0.3"))
                 {
                     if (MessageBox.Show("Looks like there is an update! Do you want to download it?", "Auto-Updater 1.0", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                         using (var client = new WebClient())
